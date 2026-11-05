@@ -30,13 +30,14 @@ Construir minha trajetória na tecnologia, desenvolver projetos, ampliar meus co
 
 ---
 
-## 📊 GitHub Statistics
+
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Juliana-Ferreiraa&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Juliana-Ferreiraa&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliana-Ferreiraa&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Juliana-Ferreiraa&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
