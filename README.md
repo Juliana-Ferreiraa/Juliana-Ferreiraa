@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,50:172554,100:06b6d4&height=180&section=header&text=Hello,%20World!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o;Professora+de+Rob%C3%B3tica+e+Tecnologia;Cybersecurity+%26+Digital+Forensics;Transformando+curiosidade+em+conhecimento." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Desenvolvedora+em+formacao;Professora+de+Robotica+e+Tecnologia;Cybersecurity+%26+Forense+Digital;Transformando+curiosidade+em+conhecimento" />
 
 </div>
 
